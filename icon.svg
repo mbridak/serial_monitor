@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showborder="false"
+     showguides="false"
+     inkscape:zoom="1.32"
+     inkscape:cx="280.68182"
+     inkscape:cy="379.54545"
+     inkscape:window-width="1488"
+     inkscape:window-height="539"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter2255"
+       x="-0.084705886"
+       y="-0.062731806"
+       width="1.1694118"
+       height="1.1864529">
+      <feFlood
+         flood-opacity="0.521569"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood2245" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite2247" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.6"
+         result="blur"
+         id="feGaussianBlur2249" />
+      <feOffset
+         dx="4.57967e-15"
+         dy="1.4"
+         result="offset"
+         id="feOffset2251" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite2253" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g5313"
+       transform="translate(-30.264883,18.404706)"
+       inkscape:export-filename="usb_plug_disconnected.png"
+       inkscape:export-xdpi="69.669998"
+       inkscape:export-ydpi="69.669998">
+      <circle
+         style="fill:#aa8800;fill-opacity:1;stroke-width:0.264583"
+         id="circle4916"
+         cx="77.034241"
+         cy="88.221718"
+         r="3.8039596" />
+      <g
+         id="g5307"
+         transform="rotate(38.485637,131.45254,85.132627)">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           id="rect5301"
+           width="1"
+           height="5"
+           x="90.722282"
+           y="118.48306" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           id="rect5303"
+           width="2.5"
+           height="1"
+           x="89.222282"
+           y="122.48306" />
+      </g>
+    </g>
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke-width:0.264583"
+       id="rect5346"
+       width="30"
+       height="29.999998"
+       x="24.550703"
+       y="83.406456"
+       inkscape:export-filename="usb_plug_connected.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g448"
+       transform="translate(0.49458694)">
+      <rect
+         style="fill:#666666;fill-opacity:1;stroke-width:0.264583"
+         id="rect685"
+         width="6.6227179"
+         height="6.5533371"
+         x="35.744759"
+         y="105.97123"
+         rx="1.3531588"
+         ry="1.26942" />
+      <g
+         id="g673"
+         transform="translate(-0.54185104,2.3552119)"
+         style="filter:url(#filter2255)">
+        <rect
+           style="fill:#ffffff;stroke-width:0.264583"
+           id="rect400"
+           width="13.053561"
+           height="11.445851"
+           x="33.071186"
+           y="82.701424"
+           rx="0"
+           ry="0" />
+        <g
+           id="g667"
+           transform="translate(-0.24124515)">
+          <rect
+             style="fill:#4d4d4d;stroke-width:0.264583"
+             id="rect454"
+             width="3.6273983"
+             height="2.7378938"
+             x="35.115093"
+             y="86.736496" />
+          <rect
+             style="fill:#4d4d4d;stroke-width:0.264583"
+             id="rect456"
+             width="3.6273983"
+             height="2.7378938"
+             x="40.935932"
+             y="86.736496" />
+        </g>
+      </g>
+      <g
+         id="g398"
+         style="fill:#666666;fill-opacity:1;filter:url(#filter2255)"
+         transform="translate(-0.54185104,2.3552119)">
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke-width:0.264583"
+           id="rect392"
+           width="17"
+           height="8.3868933"
+           x="31.097967"
+           y="92.309898"
+           rx="2.3795083"
+           ry="2.6206651" />
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke-width:0.264583"
+           id="rect394"
+           width="17"
+           height="11.922423"
+           x="31.097967"
+           y="93.733864"
+           rx="4.2647409"
+           ry="4.2647409" />
+      </g>
+    </g>
+    <g
+       id="g5195"
+       transform="translate(-31.630003,-1.6012527)"
+       inkscape:export-filename="usb_plug_connected.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <circle
+         style="fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+         id="path4136"
+         cx="78.399361"
+         cy="108.22768"
+         r="3.8039596" />
+      <g
+         id="g5189"
+         transform="rotate(45,85.340957,75.877687)">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           id="rect5181"
+           width="1"
+           height="5"
+           x="102.8074"
+           y="101.16103"
+           rx="0"
+           ry="0" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           id="rect5185"
+           width="1"
+           height="5"
+           x="103.16104"
+           y="-105.8074"
+           rx="0"
+           ry="0"
+           transform="rotate(90)" />
+      </g>
+    </g>
+  </g>
+</svg>
