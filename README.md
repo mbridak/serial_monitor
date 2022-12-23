@@ -1,5 +1,7 @@
 # serial_monitor
 
+![logo](https://raw.githubusercontent.com/mbridak/serial_monitor/master/logo.png)
+
 Monitors connect/disconnects changes in USB serial devices.
 Pops up a notification on the Gnome desktop.
 
