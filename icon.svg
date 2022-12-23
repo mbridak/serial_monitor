@@ -2,13 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="96"
+   height="96"
+   viewBox="0 0 25.4 25.4"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="icon.svg"
+   inkscape:export-filename="serial_monitor/usb_plug_disconnected.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -22,15 +25,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="false"
      showborder="false"
      showguides="false"
-     inkscape:zoom="1.32"
-     inkscape:cx="280.68182"
-     inkscape:cy="379.54545"
-     inkscape:window-width="1488"
-     inkscape:window-height="539"
+     inkscape:zoom="3.8322176"
+     inkscape:cx="56.755649"
+     inkscape:cy="58.321322"
+     inkscape:window-width="1638"
+     inkscape:window-height="774"
      inkscape:window-x="26"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
@@ -38,13 +41,13 @@
   <defs
      id="defs2">
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter2255"
-       x="-0.084705886"
-       y="-0.062731806"
-       width="1.1694118"
-       height="1.1864529">
+       x="-0.14963197"
+       y="-0.19059414"
+       width="1.2992639"
+       height="1.5909828">
       <feFlood
          flood-opacity="0.521569"
          flood-color="rgb(0,0,0)"
@@ -58,7 +61,7 @@
          id="feComposite2247" />
       <feGaussianBlur
          in="composite1"
-         stdDeviation="0.6"
+         stdDeviation="0.45989309"
          result="blur"
          id="feGaussianBlur2249" />
       <feOffset
@@ -70,8 +73,182 @@
          in="SourceGraphic"
          in2="offset"
          operator="over"
-         result="composite2"
+         result="fbSourceGraphic"
          id="feComposite2253" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5014" />
+      <feFlood
+         id="feFlood5016"
+         flood-opacity="0.337255"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite5018"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur5020"
+         in="composite1"
+         stdDeviation="0.6"
+         result="blur" />
+      <feOffset
+         id="feOffset5022"
+         dx="4.57967e-15"
+         dy="1.4"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite5024"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter887"
+       x="-0.44439582"
+       y="-0.50681665"
+       width="1.8887916"
+       height="2.2582634">
+      <feFlood
+         flood-opacity="0.521569"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood877" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite879" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.8170617"
+         result="blur"
+         id="feGaussianBlur881" />
+      <feOffset
+         dx="4.57967e-15"
+         dy="1.4"
+         result="offset"
+         id="feOffset883" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite885" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix2788" />
+      <feFlood
+         id="feFlood2790"
+         flood-opacity="0.854902"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite2792"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur2794"
+         in="composite1"
+         stdDeviation="0.6"
+         result="blur" />
+      <feOffset
+         id="feOffset2796"
+         dx="4.57967e-15"
+         dy="1.4"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite2798"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter5786"
+       x="-0.2174334"
+       y="-0.21973539"
+       width="1.4348668"
+       height="1.6531024">
+      <feFlood
+         flood-opacity="0.678431"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5776" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5778" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.6"
+         result="blur"
+         id="feGaussianBlur5780" />
+      <feOffset
+         dx="4.57967e-15"
+         dy="1.4"
+         result="offset"
+         id="feOffset5782" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5784" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter6161"
+       x="-0.18927647"
+       y="-0.18927647"
+       width="1.3785529"
+       height="1.5625717">
+      <feFlood
+         flood-opacity="0.678431"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood6151" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite6153" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.6"
+         result="blur"
+         id="feGaussianBlur6155" />
+      <feOffset
+         dx="4.57967e-15"
+         dy="1.4"
+         result="offset"
+         id="feOffset6157" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite6159" />
     </filter>
   </defs>
   <g
@@ -80,28 +257,30 @@
      id="layer1">
     <g
        id="g5313"
-       transform="translate(-30.264883,18.404706)"
+       transform="matrix(0.84161208,0,0,0.84477597,-46.133459,-55.558414)"
        inkscape:export-filename="usb_plug_disconnected.png"
        inkscape:export-xdpi="69.669998"
-       inkscape:export-ydpi="69.669998">
+       inkscape:export-ydpi="69.669998"
+       style="stroke-width:1.18597">
       <circle
-         style="fill:#aa8800;fill-opacity:1;stroke-width:0.264583"
+         style="fill:#aa8800;fill-opacity:1;stroke-width:0.313787"
          id="circle4916"
          cx="77.034241"
          cy="88.221718"
          r="3.8039596" />
       <g
          id="g5307"
-         transform="rotate(38.485637,131.45254,85.132627)">
+         transform="rotate(38.485637,131.45254,85.132627)"
+         style="stroke-width:1.18597">
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.313787"
            id="rect5301"
            width="1"
            height="5"
            x="90.722282"
            y="118.48306" />
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.313787"
            id="rect5303"
            width="2.5"
            height="1"
@@ -112,98 +291,98 @@
     <rect
        style="fill:#000000;fill-opacity:0;stroke-width:0.264583"
        id="rect5346"
-       width="30"
-       height="29.999998"
-       x="24.550703"
-       y="83.406456"
+       width="25.248362"
+       height="25.343277"
+       x="3.2826887e-07"
+       y="-0.64649689"
        inkscape:export-filename="usb_plug_connected.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#666666;fill-opacity:1;stroke-width:0.313787;filter:url(#filter5786)"
+       id="rect685"
+       width="6.6227179"
+       height="6.5533371"
+       x="36.239346"
+       y="105.97123"
+       rx="1.6078176"
+       ry="1.5026705"
+       transform="matrix(0.84161208,0,0,0.84477597,-20.662168,-71.106267)" />
     <g
-       id="g448"
-       transform="translate(0.49458694)">
+       id="g673"
+       transform="matrix(0.84161208,0,0,0.84477597,-20.701946,-69.11664)"
+       style="stroke-width:1.18597;filter:url(#filter887)">
       <rect
-         style="fill:#666666;fill-opacity:1;stroke-width:0.264583"
-         id="rect685"
-         width="6.6227179"
-         height="6.5533371"
-         x="35.744759"
-         y="105.97123"
-         rx="1.3531588"
-         ry="1.26942" />
+         style="fill:#ffffff;stroke-width:0.313787"
+         id="rect400"
+         width="13.053561"
+         height="11.445851"
+         x="33.071186"
+         y="82.701424"
+         rx="0"
+         ry="0" />
       <g
-         id="g673"
-         transform="translate(-0.54185104,2.3552119)"
-         style="filter:url(#filter2255)">
+         id="g667"
+         transform="translate(-0.24124515)"
+         style="stroke-width:1.18597">
         <rect
-           style="fill:#ffffff;stroke-width:0.264583"
-           id="rect400"
-           width="13.053561"
-           height="11.445851"
-           x="33.071186"
-           y="82.701424"
-           rx="0"
-           ry="0" />
-        <g
-           id="g667"
-           transform="translate(-0.24124515)">
-          <rect
-             style="fill:#4d4d4d;stroke-width:0.264583"
-             id="rect454"
-             width="3.6273983"
-             height="2.7378938"
-             x="35.115093"
-             y="86.736496" />
-          <rect
-             style="fill:#4d4d4d;stroke-width:0.264583"
-             id="rect456"
-             width="3.6273983"
-             height="2.7378938"
-             x="40.935932"
-             y="86.736496" />
-        </g>
-      </g>
-      <g
-         id="g398"
-         style="fill:#666666;fill-opacity:1;filter:url(#filter2255)"
-         transform="translate(-0.54185104,2.3552119)">
+           style="fill:#4d4d4d;stroke-width:0.313787"
+           id="rect454"
+           width="3.6273983"
+           height="2.7378938"
+           x="35.115093"
+           y="86.736496" />
         <rect
-           style="fill:#666666;fill-opacity:1;stroke-width:0.264583"
-           id="rect392"
-           width="17"
-           height="8.3868933"
-           x="31.097967"
-           y="92.309898"
-           rx="2.3795083"
-           ry="2.6206651" />
-        <rect
-           style="fill:#666666;fill-opacity:1;stroke-width:0.264583"
-           id="rect394"
-           width="17"
-           height="11.922423"
-           x="31.097967"
-           y="93.733864"
-           rx="4.2647409"
-           ry="4.2647409" />
+           style="fill:#4d4d4d;stroke-width:0.313787"
+           id="rect456"
+           width="3.6273983"
+           height="2.7378938"
+           x="40.935932"
+           y="86.736496" />
       </g>
     </g>
     <g
+       id="g398"
+       style="fill:#666666;fill-opacity:1;stroke-width:1.18597;filter:url(#filter2255)"
+       transform="matrix(0.84161208,0,0,0.84477597,-20.701946,-69.11664)">
+      <rect
+         style="fill:#666666;fill-opacity:1;stroke-width:0.313787"
+         id="rect392"
+         width="17"
+         height="8.3868933"
+         x="31.097967"
+         y="92.309898"
+         rx="2.827322"
+         ry="3.1022012" />
+      <rect
+         style="fill:#666666;fill-opacity:1;stroke-width:0.313787"
+         id="rect394"
+         width="17"
+         height="11.922423"
+         x="31.097967"
+         y="93.733864"
+         rx="5.067348"
+         ry="5.0483689" />
+    </g>
+    <g
        id="g5195"
-       transform="translate(-31.630003,-1.6012527)"
+       transform="matrix(0.84161208,0,0,0.84477597,-47.282361,-72.458966)"
        inkscape:export-filename="usb_plug_connected.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-ydpi="96"
+       style="stroke-width:1.18597;filter:url(#filter6161)">
       <circle
-         style="fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+         style="fill:#ff0000;fill-opacity:1;stroke-width:0.313787"
          id="path4136"
          cx="78.399361"
          cy="108.22768"
          r="3.8039596" />
       <g
          id="g5189"
-         transform="rotate(45,85.340957,75.877687)">
+         transform="rotate(45,85.340957,75.877687)"
+         style="stroke-width:1.18597">
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.313787"
            id="rect5181"
            width="1"
            height="5"
@@ -212,7 +391,7 @@
            rx="0"
            ry="0" />
         <rect
-           style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.313787"
            id="rect5185"
            width="1"
            height="5"
