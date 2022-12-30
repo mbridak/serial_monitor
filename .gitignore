@@ -1,6 +1,5 @@
 /dist
 /rebuild.sh
 /serial_monitor.egg-info
-serial_monitor/__pycache__/*
-
-serial_monitor/__pycache__/__main__.cpython-310.pyc
+serial_monitor/__pycache__/
+__pycache__/
