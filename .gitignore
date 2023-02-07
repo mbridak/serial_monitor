@@ -3,3 +3,4 @@
 /serial_monitor.egg-info
 serial_monitor/__pycache__/
 __pycache__/
+.vscode/settings.json
