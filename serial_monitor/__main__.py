@@ -73,7 +73,7 @@ def main():
     job = PortChecker()
     while True:
         job.check_ports()
-        time.sleep(1)
+        time.sleep(3)
 
 
 if __name__ == "__main__":
