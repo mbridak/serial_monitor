@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "serial_monitor" 
-version = "1.1.0"
+version = "1.2.0"
 description = "Notifications of adding/removing serial ports."
 readme = "README.md"
 requires-python = ">=3.9"
